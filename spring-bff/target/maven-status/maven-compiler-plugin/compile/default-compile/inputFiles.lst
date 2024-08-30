@@ -1,0 +1,7 @@
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/microservicos/spring-bff/src/main/java/com/infnet/spring/jpa/h2/model/Autor.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/microservicos/spring-bff/src/main/java/com/infnet/spring/jpa/h2/model/Livros.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/microservicos/spring-bff/src/main/java/com/infnet/spring/jpa/h2/AppConfig.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/microservicos/spring-bff/src/main/java/com/infnet/spring/jpa/h2/dto/LivrosDTO.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/microservicos/spring-bff/src/main/java/com/infnet/spring/jpa/h2/controller/LivrariaController.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/microservicos/spring-bff/src/main/java/com/infnet/spring/jpa/h2/service/LivrariaService.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/microservicos/spring-bff/src/main/java/com/infnet/spring/jpa/h2/SpringBootJpaH2Application.java

@@ -1,0 +1,7 @@
+com/infnet/spring/jpa/h2/dto/LivrosDTO.class
+com/infnet/spring/jpa/h2/model/Autor.class
+com/infnet/spring/jpa/h2/AppConfig.class
+com/infnet/spring/jpa/h2/SpringBootJpaH2Application.class
+com/infnet/spring/jpa/h2/controller/LivrariaController.class
+com/infnet/spring/jpa/h2/model/Livros.class
+com/infnet/spring/jpa/h2/service/LivrariaService.class
